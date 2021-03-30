@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/12775766/103553150-19e31f80-4ebe-11eb-875a-5a169faa79b3.gif" min-width="300px" max-width="400px" width="300px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  And I am a lead software engineer at @talenttech working on B2B online-learning products. Previously I worked at startups such as Rocketbank and Shypple.
+  And I am a lead software engineer who is working on different cool B2B products. Previously I worked at startups such as Rocketbank and Shypple.
 </p>
 
 
