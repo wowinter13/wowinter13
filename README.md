@@ -22,6 +22,6 @@
 
 - 💼 Sharing career updates on LinkedIn: https://www.linkedin.com/in/vladislav-dyachenko/
 
-- 🍾 Tinkering with wine investments: https://veritas-fund.co
+- 🍾 Tinkering with wine investments: https://finevest.co
 
 
