@@ -9,7 +9,7 @@
 
 
 <p align="left">
-  Some technologies I enjoy working with include <strong>Ruby/Rails</strong>, <strong>Elasticsearch</strong>, <strong>Rabbitmq</strong>, and <strong>Golang</strong> <i>(of course, this list could be infinite)</i>. Always open to open-source ideas and offers.
+  Some technologies I enjoy working with include <strong>Ruby/Rails</strong>, <strong>Golang</strong> and <strong>Rust</strong> <i>(of course, this list could be infinite)</i>. Always open to open-source ideas and offers.
 </p>
 
 <p align="left">
