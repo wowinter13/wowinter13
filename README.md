@@ -1,10 +1,10 @@
 # Hi, I'm Vlad 👋🏻 👨🏼‍💻
 
 
-<img src="https://user-images.githubusercontent.com/12775766/103553150-19e31f80-4ebe-11eb-875a-5a169faa79b3.gif" min-width="250px" max-width="250px" width="250px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/wowinter13/wowinter13/main/2024.gif" min-width="200px" max-width="500px" width="240px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  And I am a lead software engineer who is working on different cool B2B products. Previously I worked at startups such as Rocketbank and Shypple.
+  And I am a lead software engineer who's worked on different cool B2B products. Previously I worked at startups such as Rocketbank and Shypple.
 </p>
 
 
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  I am a big fan of fintech startups, great wines, stock trading, and ambitious minds.
+  I am a big fan of disruptive startups, great wines, crypto investing, and ambitious minds.
 </p>
 
 ## Find me around the web 🌎: ⤵️ <a href="https://t.me/wowinter13"><img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/12775766/103697006-5a22ca80-4fb0-11eb-9c3d-fbd78436fb35.png"></a>
@@ -22,6 +22,6 @@
 
 - 💼 Sharing career updates on LinkedIn: https://www.linkedin.com/in/vladislav-dyachenko/
 
-- 🍾 Tinkering with wine investments: https://finevest.co
+- <i class="fa-brands fa-rust"></i> Besides my day job, I contribute to the Rust ecosystem and am currently helping to maintain `Diesel` crate: https://github.com/diesel-rs
 
 
