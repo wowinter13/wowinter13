@@ -22,6 +22,6 @@
 
 - 💼 Sharing career updates on LinkedIn: https://www.linkedin.com/in/vladislav-dyachenko/
 
-- <i class="fa-brands fa-rust"></i> Besides my day job, I contribute to the Rust ecosystem and am currently helping to maintain `Diesel` crate: https://github.com/diesel-rs
+- 🦀 Besides my day job, I contribute to the Rust ecosystem and am currently helping to maintain `Diesel` crate: https://github.com/diesel-rs
 
 
