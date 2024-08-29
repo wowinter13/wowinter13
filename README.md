@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/wowinter13/wowinter13/main/2024.gif" min-width="200px" max-width="500px" width="240px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  And I am a lead software engineer who's worked on different cool B2B products. Previously I worked at startups such as Rocketbank and Shypple.
+  And I'm a Lead Software Engineer who's worked on various cool B2B products. Previously, I worked at startups such as Rocketbank and Shypple.
 </p>
 
 
