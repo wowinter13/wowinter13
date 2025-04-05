@@ -14,6 +14,8 @@ My OSS work revolves around building utility-focused libraries and tools:
  - [🔓 `pkcs12cracker`](https://github.com/wowinter13/pkcs12cracker) – A simple tool to concurrently attack password-protected PKCS#12 (PFX/P12) files
  - [💬 `telegrama-rs`](https://github.com/wowinter13/telegrama-rs) – Send admin notifications as Telegram messages (shoutout to @rameerez)
  - [🇬🇧⚙️ `english-to-cron`](https://github.com/wowinter13/english-to-cron) – Converts natural language into cron expressions
+ - [📊 `finance_rb`](https://github.com/wowinter13/finance_rb) – A ruby port of numpy-financial functions
+
 
 <p align="left">
   I’m a big fan of disruptive startups, great wines, crypto investing, and ambitious minds.
