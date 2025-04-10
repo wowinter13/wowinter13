@@ -11,10 +11,12 @@
 </p>
 
 My OSS work revolves around building utility-focused libraries and tools:
- - [🔓 `pkcs12cracker`](https://github.com/wowinter13/pkcs12cracker) – A simple tool to concurrently attack password-protected PKCS#12 (PFX/P12) files
- - [💬 `telegrama-rs`](https://github.com/wowinter13/telegrama-rs) – Send admin notifications as Telegram messages (shoutout to @rameerez)
- - [🇬🇧⚙️ `english-to-cron`](https://github.com/wowinter13/english-to-cron) – Converts natural language into cron expressions
- - [📊 `finance_rb`](https://github.com/wowinter13/finance_rb) – A ruby port of numpy-financial functions
+ - [🔓`pkcs12cracker`](https://github.com/wowinter13/pkcs12cracker) – A simple tool to concurrently attack password-protected PKCS#12 (PFX/P12) files
+ - [💬`telegrama-rs`](https://github.com/wowinter13/telegrama-rs) – Send admin notifications as Telegram messages (shoutout to @rameerez)
+ - [🇬🇧⚙️`english-to-cron`](https://github.com/wowinter13/english-to-cron) – Converts natural language into cron expressions
+ - [📊`finance_rb`](https://github.com/wowinter13/finance_rb) – A ruby port of numpy-financial functions
+ - [🟣🔎`solscan-mcp`](https://github.com/wowinter13/solscan-mcp) – An MCP server for querying Solana transactions using natural language with Solscan API
+
 
 
 <p align="left">
