@@ -6,8 +6,13 @@
   I’m a Software Engineer who’s worked on various cool B2B products. Previously, I contributed to startups like Shypple and Tablecheck.
 </p>
 
+Currenly developing:
+- [`OpenCryptoList.xyz`](https://opencryptolist.xyz) – to help new developers interested in the blockchain industry make their first contributions to blockchain-related projects.
+- [`getIDL.xyz`](https://getidl.xyz) – to get IDL info from closed-source Solana programs (an AI-based reverse engineering tool)
+
+
 <p align="left">
-  Some technologies I enjoy working with include <strong>Ruby/Rails</strong>, <strong>Golang</strong>, and <strong>Rust</strong> <i>(of course, this list could be infinite)</i>. I’m a big fan of open-source software and always open to ideas and offers in that space. My libraries have been downloaded over 230k times, and I’m proud of that (though I suspect many of those downloads were from bots and crawlers).
+  Some technologies I enjoy working with include <strong>Ruby/Rails</strong>, <strong>Golang</strong>, and <strong>Rust</strong> <i>(of course, this list could be infinite)</i>. I’m a big fan of open-source software and always open to ideas and offers in that space. My libraries have been downloaded over 240k times, and I’m proud of that (though I suspect many of those downloads were from bots and crawlers).
 </p>
 
 My OSS work revolves around building utility-focused libraries and tools:
@@ -16,7 +21,6 @@ My OSS work revolves around building utility-focused libraries and tools:
  - [🇬🇧⚙️`english-to-cron`](https://github.com/wowinter13/english-to-cron) – Converts natural language into cron expressions
  - [📊`finance_rb`](https://github.com/wowinter13/finance_rb) – A ruby port of numpy-financial functions
  - [🟣🔎`solscan-mcp`](https://github.com/wowinter13/solscan-mcp) – An MCP server for querying Solana transactions using natural language with Solscan API
-
 
 
 <p align="left">
@@ -28,4 +32,4 @@ My OSS work revolves around building utility-focused libraries and tools:
 - 💭 Posting some thoughts on Medium: https://medium.com/@wowinter13
 - 💼 Sharing career updates on LinkedIn: https://www.linkedin.com/in/vladislav-dyachenko/
 - 📄 A list of my commercial projects: https://wowinter13.com/projects/
-- 🦀 Besides my day job, I contribute to the Rust/Web3 ecosystem and am currently helping maintain the `Diesel` crate: https://github.com/diesel-rs and developing [`OpenCryptoList`](https://opencryptolist.xyz) to help new developers interested in the blockchain industry make their first contributions to blockchain-related projects.
+- 🦀 Besides my day job, I contribute to the Rust/Web3 ecosystem and am currently helping maintain the `Diesel` crate: https://github.com/diesel-rs
