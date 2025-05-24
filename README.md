@@ -7,8 +7,8 @@
 </p>
 
 Currenly developing:
-- [`OpenCryptoList.xyz`](https://opencryptolist.xyz) – to help new developers interested in the blockchain industry make their first contributions to blockchain-related projects.
-- [`getIDL.xyz`](https://getidl.xyz) – to get IDL info from closed-source Solana programs (an AI-based reverse engineering tool)
+- [`OpenCryptoList.xyz`](https://opencryptolist.xyz/?ref=github) – to help new developers interested in the blockchain industry make their first contributions to blockchain-related projects.
+- [`getIDL.xyz`](https://getidl.xyz/?ref=github) – to get IDL info from closed-source Solana programs (an AI-based reverse engineering tool)
 
 
 <p align="left">
