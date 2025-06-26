@@ -21,6 +21,8 @@ My OSS work revolves around building utility-focused libraries and tools:
  - [🇬🇧⚙️`english-to-cron`](https://github.com/wowinter13/english-to-cron) – Converts natural language into cron expressions
  - [📊`finance_rb`](https://github.com/wowinter13/finance_rb) – A ruby port of numpy-financial functions
  - [🟣🔎`solscan-mcp`](https://github.com/wowinter13/solscan-mcp) – An MCP server for querying Solana transactions using natural language with Solscan API
+- [🖼️🔓](https://github.com/wowinter13/visual-cryptography) – An experimental repository with implementations of all basic visual cryptography schemes
+
 
 
 <p align="left">
