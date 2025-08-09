@@ -15,7 +15,7 @@ Currenly developing:
 
 
 <p align="left">
-  Some technologies I enjoy working with include <strong>Ruby/Rails</strong>, <strong>Golang</strong>, and <strong>Rust</strong> <i>(of course, this list could be infinite)</i>. I’m a big fan of open-source software and always open to ideas and offers in that space. My libraries have been downloaded over 240k times, and I’m proud of that (though I suspect many of those downloads were from bots and crawlers).
+  Some technologies I enjoy working with include <strong>Ruby/Rails</strong>, <strong>Golang</strong>, and <strong>Rust</strong> <i>(of course, this list could be infinite)</i>. I’m a big fan of open-source software and always open to ideas and offers in that space. My libraries have been downloaded over 260k times, and I’m proud of that (though I suspect many of those downloads were from bots and crawlers).
 </p>
 
 My OSS work revolves around building utility-focused libraries and tools:
