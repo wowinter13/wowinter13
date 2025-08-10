@@ -9,8 +9,8 @@
 Currenly developing:
 - [`OpenCryptoList.xyz`](https://opencryptolist.xyz/?ref=github) – to help new developers interested in the blockchain industry make their first contributions to blockchain-related projects.
 - [`solvitor.xyz`](https://solvitor.xyz/?ref=github) – to get IDL info from closed-source Solana programs (an AI-based reverse engineering tool)
-- [`ShareSpeak.co`](https://sharespeak.co/?ref=github) – an AI-powered invisible teleprompter made for screencasters.
-- [`IndexMachine.co`](https://indexmachine.co/?ref=github) – to get your website indexed by Google, Bing, ChatGPT, X, and other search engines. Drive more SEO traffic.
+- [`ShareSpeak.co`](https://sharespeak.co/?ref=github) – an AI-powered invisible teleprompter made for screencasters. (WIP)
+- [`IndexMachine.co`](https://indexmachine.co/?ref=github) – to get your website indexed by Google, Bing, ChatGPT, X, and other search engines. Drive more SEO traffic. (WIP)
 
 
 
@@ -19,6 +19,7 @@ Currenly developing:
 </p>
 
 My OSS work revolves around building utility-focused libraries and tools:
+ - [💎🕵️`agentura`](https://github.com/Adeptus-Innovatio/agentura) – A Ruby framework for building multi-agent systems with shared memory, knowledge and reasoning (WIP)
  - [🔓`pkcs12cracker`](https://github.com/wowinter13/pkcs12cracker) – A simple tool to concurrently attack password-protected PKCS#12 (PFX/P12) files
  - [💬`telegrama-rs`](https://github.com/wowinter13/telegrama-rs) – Send admin notifications as Telegram messages (shoutout to @rameerez)
  - [🇬🇧⚙️`english-to-cron`](https://github.com/wowinter13/english-to-cron) – Converts natural language into cron expressions
