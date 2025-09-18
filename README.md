@@ -27,6 +27,13 @@ My OSS work revolves around building utility-focused libraries and tools:
  - [🟣🔎`solscan-mcp`](https://github.com/wowinter13/solscan-mcp) – An MCP server for querying Solana transactions using natural language with Solscan API
 - [🖼️🔓`visual-cryptography`](https://github.com/wowinter13/visual-cryptography) – An experimental repository with implementations of all basic visual cryptography schemes
 
+Latest talks:
+- RubyConf India 2025 – [MCP Security: Real-world Risks & Defenses](https://www.youtube.com/watch?v=2aHxfhJKKFk)
+
+Latest articles:
+- [I'm Tired of Reviewing AI Slop](https://wowinter13.com/posts/tired-of-ai-slop/)
+- [2025: Open Source as the Only Way to Enter the Job Market](https://wowinter13.com/posts/2025-oss/)
+- [MCP 101: Developing your first MCP in Rust](https://wowinter13.com/posts/rust-mcp/)
 
 
 <p align="left">
