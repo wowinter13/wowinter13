@@ -28,7 +28,7 @@ My OSS work revolves around building utility-focused libraries and tools:
 - [🖼️🔓`visual-cryptography`](https://github.com/wowinter13/visual-cryptography) – An experimental repository with implementations of all basic visual cryptography schemes
 
 Latest talks:
-- RubyConf India 2025 – [MCP Security: Real-world Risks & Defenses](https://www.youtube.com/watch?v=2aHxfhJKKFk)
+- RubyConf India 2025 – [MCP Security: Real-world Risks & Defenses](https://www.youtube.com/watch?v=URoSAc4rg0g)
 
 Latest articles:
 - [I'm Tired of Reviewing AI Slop](https://wowinter13.com/posts/tired-of-ai-slop/)
