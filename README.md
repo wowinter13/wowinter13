@@ -19,7 +19,6 @@ Currenly developing:
 </p>
 
 My OSS work revolves around building utility-focused libraries and tools:
- - [💎🕵️`agentura`](https://github.com/Adeptus-Innovatio/agentura) – A Ruby framework for building multi-agent systems with shared memory, knowledge and reasoning (WIP)
  - [🔓`pkcs12cracker`](https://github.com/wowinter13/pkcs12cracker) – A simple tool to concurrently attack password-protected PKCS#12 (PFX/P12) files
  - [💬`telegrama-rs`](https://github.com/wowinter13/telegrama-rs) – Send admin notifications as Telegram messages (shoutout to @rameerez)
  - [🇬🇧⚙️`english-to-cron`](https://github.com/wowinter13/english-to-cron) – Converts natural language into cron expressions
