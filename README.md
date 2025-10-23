@@ -27,8 +27,8 @@ My OSS work revolves around building utility-focused libraries and tools:
 - [🖼️🔓`visual-cryptography`](https://github.com/wowinter13/visual-cryptography) – An experimental repository with implementations of all basic visual cryptography schemes
 
 Latest talks:
-- Prompt Engineering Conference 2025 – Prompt Driven Development (PDD) or the Art of Prompting
 - RubyConf India 2025 – [MCP Security: Real-world Risks & Defenses](https://www.youtube.com/watch?v=URoSAc4rg0g)
+- Prompt Engineering Conference 2025 – [Prompt Driven Development (PDD) or the Art of Prompting](https://youtu.be/aV_U_BAIVg0?si=OdhN-5apetSjlwhK) + [Slides](https://drive.google.com/file/d/1MYukygsoYuWAEgk2-aIIbgKFKA1coCgl/view?usp=sharing)
 
 Latest articles:
 - [I'm Tired of Reviewing AI Slop](https://wowinter13.com/posts/tired-of-ai-slop/)
