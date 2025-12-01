@@ -28,7 +28,7 @@ My OSS work revolves around building utility-focused libraries and tools:
 
 Latest talks:
 - AI Conf 2026 – The Perfect Programming Language for the AI Era: How Should It Look? [!SOON!]
-- RubyConf India 2025 – [MCP Security: Real-world Risks & Defenses](https://www.youtube.com/watch?v=URoSAc4rg0g)
+- RubyConf India 2025 – [MCP Security: Real-world Risks & Defenses](https://www.youtube.com/watch?v=Rfjm8w0hwaY)
 - Prompt Engineering Conference 2025 – [Prompt Driven Development (PDD) or the Art of Prompting](https://youtu.be/aV_U_BAIVg0?si=OdhN-5apetSjlwhK) + [Slides](https://drive.google.com/file/d/1MYukygsoYuWAEgk2-aIIbgKFKA1coCgl/view?usp=sharing)
 
 Latest articles:
