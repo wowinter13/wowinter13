@@ -10,7 +10,8 @@ Currenly developing:
 - [`OpenCryptoList.xyz`](https://opencryptolist.xyz/?ref=github) – to help new developers interested in the blockchain industry make their first contributions to blockchain-related projects.
 - [`solvitor.xyz`](https://solvitor.xyz/?ref=github) – to get IDL info from closed-source Solana programs (an AI-based reverse engineering tool)
 - [`ShareSpeak.co`](https://sharespeak.co/?ref=github) – an AI-powered invisible teleprompter made for screencasters.
-- [`IndexMachine.co`](https://indexmachine.co/?ref=github) – to get your website indexed by Google, Bing, ChatGPT, Perplexity, and other search engines. Drive more SEO traffic.
+- [`IndexMachine.co`](https://indexmachine.co/?ref=github) –> to get your website indexed by Google, Bing, ChatGPT, Perplexity, and other search engines. Drive more SEO traffic.
+- [`AffyList.com`](https://affylist.com) – a directory that helps let the internet know about your affiliate program. (WIP)
 
 
 
