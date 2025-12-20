@@ -11,7 +11,8 @@ Currenly developing:
 - [`solvitor.xyz`](https://solvitor.xyz/?ref=github) – to get IDL info from closed-source Solana programs (an AI-based reverse engineering tool)
 - [`ShareSpeak.co`](https://sharespeak.co/?ref=github) – an AI-powered invisible teleprompter made for screencasters.
 - [`IndexMachine.co`](https://indexmachine.co/?ref=github) – to get your website indexed by Google, Bing, ChatGPT, Perplexity, and other search engines. Drive more SEO traffic.
-- [`AffyList.com`](https://affylist.com) – a directory that helps let the internet know about your affiliate program. (WIP)
+- [`AffyList.com`](https://affylist.com) – a directory that helps the internet learn about your affiliate program.
+- [`Submitator.com`](https://submitator.com) – to submit a website to directories in one click
 
 
 
