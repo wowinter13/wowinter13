@@ -29,6 +29,7 @@ My OSS work revolves around building utility-focused libraries and tools:
 - [🖼️🔓`visual-cryptography`](https://github.com/wowinter13/visual-cryptography) – An experimental repository with implementations of all basic visual cryptography schemes
 
 Latest talks:
+- Ruby Austria 2026 – jemalloc is dead, long live mimalloc! [!SOON!]
 - Rustikon 2026 – The State of the Rust AI Toolbox [!SOON!]
 - AI Conf 2026 – The Perfect Programming Language for the AI Era: How Should It Look? [!SOON!]
 - RubyConf India 2025 – [MCP Security: Real-world Risks & Defenses](https://www.youtube.com/watch?v=Rfjm8w0hwaY)
