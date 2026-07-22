@@ -7,7 +7,6 @@
 </p>
 
 Currenly developing:
-- [`OpenCryptoList.xyz`](https://opencryptolist.xyz/?ref=github) – to help new developers interested in the blockchain industry make their first contributions to blockchain-related projects.
 - [`solvitor.xyz`](https://solvitor.xyz/?ref=github) – to get IDL info from closed-source Solana programs (an AI-based reverse engineering tool)
 - [`ShareSpeak.co`](https://sharespeak.co/?ref=github) – an AI-powered invisible teleprompter made for screencasters.
 - [`IndexMachine.co`](https://indexmachine.co/?ref=github) – to get your website indexed by Google, Bing, ChatGPT, Perplexity, and other search engines. Drive more SEO traffic.
@@ -29,9 +28,8 @@ My OSS work revolves around building utility-focused libraries and tools:
 - [🖼️🔓`visual-cryptography`](https://github.com/wowinter13/visual-cryptography) – An experimental repository with implementations of all basic visual cryptography schemes
 
 Latest talks:
-- Ruby Austria 2026 – jemalloc is dead, long live mimalloc! [!SOON!]
-- Podlodka Crew: AI Crew 2.0 – Spec-Driven Development или Метод Ральфа (RU) [!SOON]
-- AI Conf 2026 – The Perfect Programming Language for the AI Era: How Should It Look? [!VIDEO SOON!]
+- Podlodka Crew: AI Crew 2.0 – Spec-Driven Development или Метод Ральфа (RU)
+- AI Conf 2026 – The Perfect Programming Language for the AI Era: How Should It Look?
 - RubyConf India 2025 – [MCP Security: Real-world Risks & Defenses](https://www.youtube.com/watch?v=Rfjm8w0hwaY)
 - Prompt Engineering Conference 2025 – [Prompt Driven Development (PDD) or the Art of Prompting](https://youtu.be/aV_U_BAIVg0?si=OdhN-5apetSjlwhK) + [Slides](https://drive.google.com/file/d/1MYukygsoYuWAEgk2-aIIbgKFKA1coCgl/view?usp=sharing)
 
